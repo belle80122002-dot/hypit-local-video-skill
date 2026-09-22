@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.env
+.env.*
+!.env.example
+.hypit/
+private/
+work/
+outputs/
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.key

@@ -1,0 +1,82 @@
+{
+  "title": "一个杯子，把它拿捏了",
+  "tag": "杯子观察员",
+  "width": 720,
+  "height": 1280,
+  "fps": 30,
+  "font": "Microsoft YaHei",
+  "sources": {
+    "a": "source1.mp4",
+    "b": "source2.mp4"
+  },
+  "clips": [
+    {
+      "source": "b",
+      "start": 34.6,
+      "end": 37.0,
+      "caption": "一个杯子，\n把它拿捏了",
+      "hook": true
+    },
+    {
+      "source": "a",
+      "start": 20.0,
+      "end": 23.6,
+      "caption": "先看一眼",
+      "hook": false
+    },
+    {
+      "source": "a",
+      "start": 30.4,
+      "end": 34.0,
+      "caption": "再把脑袋伸进去",
+      "hook": false
+    },
+    {
+      "source": "a",
+      "start": 51.8,
+      "end": 56.0,
+      "caption": "杯子一动，立刻跟上",
+      "hook": false
+    },
+    {
+      "source": "a",
+      "start": 86.4,
+      "end": 90.6,
+      "caption": "换个角度，还要再确认",
+      "hook": false
+    },
+    {
+      "source": "b",
+      "start": 0.2,
+      "end": 3.8,
+      "caption": "到了肩上，也一样",
+      "hook": false
+    },
+    {
+      "source": "b",
+      "start": 16.8,
+      "end": 20.4,
+      "caption": "眼里只有那个杯子",
+      "hook": false
+    },
+    {
+      "source": "b",
+      "start": 30.8,
+      "end": 36.8,
+      "caption": "这就叫：沉浸式检查",
+      "hook": false
+    },
+    {
+      "source": "b",
+      "start": 37.4,
+      "end": 40.4,
+      "caption": "你家也有\n这么执着的小家伙吗？",
+      "hook": false
+    }
+  ],
+  "source_gain": 1.4,
+  "music": {
+    "path": "music.wav",
+    "gain": 1.0
+  }
+}
